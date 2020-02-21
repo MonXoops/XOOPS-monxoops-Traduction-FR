@@ -51,7 +51,7 @@ define('_AM_SYSTEM_MLUS_DESC', 'Si vous souhaitez envoyer un message groupé (em
 define('_AM_SYSTEM_IMAGES', 'Gestionnaire d\'image');
 define('_AM_SYSTEM_IMAGES_DESC', 'C\'est dans cette section que vous pouvez gérer les images, leurs catégories et les droits d\'accès');
 define('_AM_SYSTEM_AVATARS', 'Avatars');
-define('_AM_SYSTEM_AVATARS_DESC', 'Cette section vous permet de gérer les avatars disponibles pour les profils de vos utilisateurs');
+define('_AM_SYSTEM_AVATARS_DESC', 'Gestion des avatars, proposés (système) et personnalisés (utilisateurs)');
 define('_AM_SYSTEM_TPLSETS', 'Modèles');
 define('_AM_SYSTEM_TPLSETS_DESC', 'Si vous avez besoin d\'effectuer quelques changements aux templates de votre noyau XOOPS ou de vos modules, cette section permet de créer une surcharge du thème');
 define('_AM_SYSTEM_COMMENTS', 'Commentaires');
