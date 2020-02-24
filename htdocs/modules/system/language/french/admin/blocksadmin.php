@@ -22,38 +22,40 @@ define('_AM_SYSTEM_BLOCKS_HIDE', 'Masquer le bloc');
 define('_AM_SYSTEM_BLOCKS_CLONE', 'Clone');
 define('_AM_SYSTEM_BLOCKS_SIDELEFT', 'Gauche');
 define('_AM_SYSTEM_BLOCKS_SIDETOPLEFT', 'En haut à gauche');
-define('_AM_SYSTEM_BLOCKS_SIDETOPCENTER', 'En haut au centre');
-define('_AM_SYSTEM_BLOCKS_SIDETOPRIGHT', 'En haut à droite');
-define('_AM_SYSTEM_BLOCKS_SIDERIGHT', 'Droite');
-define('_AM_SYSTEM_BLOCKS_SIDEBOTTOMLEFT', 'En bas à gauche');
-define('_AM_SYSTEM_BLOCKS_SIDEBOTTOMCENTER', 'En bas au centre');
-define('_AM_SYSTEM_BLOCKS_SIDEBOTTOMRIGHT', 'En bas à droite');
+define('_AM_SYSTEM_BLOCKS_SIDELEFT', 'Colonne - Gauche');
+define('_AM_SYSTEM_BLOCKS_SIDETOPLEFT', 'Haut - Gauche');
+define('_AM_SYSTEM_BLOCKS_SIDETOPCENTER', 'Haut - Centre');
+define('_AM_SYSTEM_BLOCKS_SIDETOPRIGHT', 'Haut - Droite');
+define('_AM_SYSTEM_BLOCKS_SIDERIGHT', 'Colonne - Droite');
+define('_AM_SYSTEM_BLOCKS_SIDEBOTTOMLEFT', 'Bas - Gauche');
+define('_AM_SYSTEM_BLOCKS_SIDEBOTTOMCENTER', 'Bas - Centre');
+define('_AM_SYSTEM_BLOCKS_SIDEBOTTOMRIGHT', 'Bas  - Droite');
 
-define('_AM_SYSTEM_BLOCKS_SIDEFOOTERLEFT', 'Pied de page à gauche');
-define('_AM_SYSTEM_BLOCKS_SIDEFOOTERCENTER', 'Pied de page au centre');
-define('_AM_SYSTEM_BLOCKS_SIDEFOOTERRIGHT', 'Pied de page à droite');
+define('_AM_SYSTEM_BLOCKS_SIDEFOOTERLEFT', 'Pied de page - Gauche');
+define('_AM_SYSTEM_BLOCKS_SIDEFOOTERCENTER', 'Pied de page - Centre');
+define('_AM_SYSTEM_BLOCKS_SIDEFOOTERRIGHT', 'Pied de page - Droite');
 
 define('_AM_SYSTEM_BLOCKS_ADD', 'Ajouter un bloc');
 define('_AM_SYSTEM_BLOCKS_MANAGE', 'Gérer le bloc');
 define('_AM_SYSTEM_BLOCKS_NAME', 'Nom');
-define('_AM_SYSTEM_BLOCKS_TYPE', 'Type de bloc');
-define('_AM_SYSTEM_BLOCKS_SBLEFT', 'Bloc latéral - gauche');
-define('_AM_SYSTEM_BLOCKS_SBRIGHT', 'Bloc latéral - droit');
-define('_AM_SYSTEM_BLOCKS_CBLEFT', 'Bloc central - Gauche');
-define('_AM_SYSTEM_BLOCKS_CBRIGHT', 'Bloc central - Droit');
-define('_AM_SYSTEM_BLOCKS_CBCENTER', 'Bloc du Centre - Centre');
-define('_AM_SYSTEM_BLOCKS_CBBOTTOMLEFT', 'Bloc du Centre - En bas à gauche');
-define('_AM_SYSTEM_BLOCKS_CBBOTTOMRIGHT', 'Bloc du Centre - En bas à droite');
+define('_AM_SYSTEM_BLOCKS_TYPE', 'Position du bloc');
+define('_AM_SYSTEM_BLOCKS_SBLEFT', 'Colonne - Gauche');
+define('_AM_SYSTEM_BLOCKS_SBRIGHT', 'Colonne - Droite');
+define('_AM_SYSTEM_BLOCKS_CBLEFT', 'Haut - Gauche');
+define('_AM_SYSTEM_BLOCKS_CBRIGHT', 'Haut - Droite');
+define('_AM_SYSTEM_BLOCKS_CBCENTER', 'Haut - Centre');
+define('_AM_SYSTEM_BLOCKS_CBBOTTOMLEFT', 'Bas - Gauche');
+define('_AM_SYSTEM_BLOCKS_CBBOTTOMRIGHT', 'Bas - Droite');
 
-define('_AM_SYSTEM_BLOCKS_CBFOOTERLEFT', 'Bloc de pied de page - Gauche');
-define('_AM_SYSTEM_BLOCKS_CBFOOTERCENTER', 'Bloc de pied de page - Centre');
-define('_AM_SYSTEM_BLOCKS_CBFOOTERRIGHT', 'Bloc de pied de page - Droite');
+define('_AM_SYSTEM_BLOCKS_CBFOOTERLEFT', 'Pied de page - Gauche');
+define('_AM_SYSTEM_BLOCKS_CBFOOTERCENTER', 'Pied de page - Centre');
+define('_AM_SYSTEM_BLOCKS_CBFOOTERRIGHT', 'Pied de page - Droite');
 
-define('_AM_SYSTEM_BLOCKS_CBBOTTOM', 'Bloc central - Bas');
+define('_AM_SYSTEM_BLOCKS_CBBOTTOM', 'Bas - Centre');
 define('_AM_SYSTEM_BLOCKS_WEIGHT', 'Poids');
 define('_AM_SYSTEM_BLOCKS_VISIBLE', 'Visible');
 define('_AM_SYSTEM_BLOCKS_VISIBLEIN', 'Visible dans');
-define('_AM_SYSTEM_BLOCKS_TOPPAGE', 'Haut de la page');
+define('_AM_SYSTEM_BLOCKS_TOPPAGE', 'Page d\'accueil');
 define('_AM_SYSTEM_BLOCKS_ALLPAGES', 'Toutes les Pages');
 define('_AM_SYSTEM_BLOCKS_UNASSIGNED', 'Non assigné');
 define('_AM_SYSTEM_BLOCKS_TITLE', 'Titre');
@@ -79,12 +81,12 @@ define('_AM_SYSTEM_BLOCKS_RUSUREDEL', 'Êtes-vous sûr de vouloir supprimer le b
 define('_AM_SYSTEM_BLOCKS_SYSTEMCANT', 'Les blocs système ne peuvent pas être supprimés !');
 define('_AM_SYSTEM_BLOCKS_MODULECANT', 'Ce bloc ne peut pas être supprimé directement ! Si vous souhaitez désactiver ce bloc, désactivez le module.');
 // Tips
-define('_AM_SYSTEM_BLOCKS_TIPS','<ul>
-<li>Vous pouvez changer le côté ou la position par glisser-déposer, tout simplement en déplaçant l\'image <img class="tooltip" src="%s" alt="'._AM_SYSTEM_BLOCKS_DRAG.'" title="'._AM_SYSTEM_BLOCKS_DRAG.'" /> pour mettre en page votre site selon vos désirs</li>
-<li>Ajouter un nouveau bloc personnalisé</li>
-<li>Activer ou désactiver un bloc en cliquant sur <img class="tooltip" width="16" src="%s" alt="'._AM_SYSTEM_BLOCKS_DISPLAY.'" title="'._AM_SYSTEM_BLOCKS_DISPLAY.'"/> or <img class="tooltip" width="16" src="%s" alt="'._AM_SYSTEM_BLOCKS_HIDE.'" title="'._AM_SYSTEM_BLOCKS_HIDE.'" /></li>
+define('_AM_SYSTEM_BLOCKS_TIPS','Vous pouvez<ul>
+<li>Déplacer un bloc via glisser-déposer simplement en cliquant sur le titre d\'un bloc ou l\'icône <img class="tooltip" src="%s" alt="'._AM_SYSTEM_BLOCKS_DRAG.'" title="'._AM_SYSTEM_BLOCKS_DRAG.'" /> et le relacher sur la position souhaitée,</li>
+<li>Ajouter un nouveau bloc personnalisé,</li>
+<li>Activer ou désactiver un bloc en cliquant sur <img class="tooltip" width="16" src="%s" alt="'._AM_SYSTEM_BLOCKS_DISPLAY.'" title="'._AM_SYSTEM_BLOCKS_DISPLAY.'"/> ou <img class="tooltip" width="16" src="%s" alt="'._AM_SYSTEM_BLOCKS_HIDE.'" title="'._AM_SYSTEM_BLOCKS_HIDE.'" />.</li>
 </ul>');
 
-define('_AM_SYSTEM_BLOCKS_FOOTER_LEFT', 'Pied de page à gauche');
-define('_AM_SYSTEM_BLOCKS_FOOTER_CENTER', 'Pied de page au centre');
-define('_AM_SYSTEM_BLOCKS_FOOTER_RIGHT', 'Pied de page à droite');
+define('_AM_SYSTEM_BLOCKS_FOOTER_LEFT', 'Pied de page - Gauche');
+define('_AM_SYSTEM_BLOCKS_FOOTER_CENTER', 'Pied de page - Centre');
+define('_AM_SYSTEM_BLOCKS_FOOTER_RIGHT', 'Pied de page - Droite');
