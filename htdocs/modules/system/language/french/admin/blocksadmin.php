@@ -20,8 +20,6 @@ define('_AM_SYSTEM_BLOCKS_SVISIBLEIN', 'Page');
 define('_AM_SYSTEM_BLOCKS_DISPLAY', 'Afficher le bloc');
 define('_AM_SYSTEM_BLOCKS_HIDE', 'Masquer le bloc');
 define('_AM_SYSTEM_BLOCKS_CLONE', 'Clone');
-define('_AM_SYSTEM_BLOCKS_SIDELEFT', 'Gauche');
-define('_AM_SYSTEM_BLOCKS_SIDETOPLEFT', 'En haut à gauche');
 define('_AM_SYSTEM_BLOCKS_SIDELEFT', 'Colonne - Gauche');
 define('_AM_SYSTEM_BLOCKS_SIDETOPLEFT', 'Haut - Gauche');
 define('_AM_SYSTEM_BLOCKS_SIDETOPCENTER', 'Haut - Centre');
