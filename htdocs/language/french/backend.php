@@ -5,4 +5,4 @@
 // Translator: XOOPS Translation Team
 
 // RSS feed URLs
-return array('https://monxoops.fr/modules/xmnews/backend.php');
+return array('https://www.frxoops.org/backend.php');
