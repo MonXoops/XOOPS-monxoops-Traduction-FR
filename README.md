@@ -1,4 +1,4 @@
-# TraductionFrXoops
+# XOOPS-monxoops-Traduction-FR
 Traduction Fr de xoops
 
 Installation:
