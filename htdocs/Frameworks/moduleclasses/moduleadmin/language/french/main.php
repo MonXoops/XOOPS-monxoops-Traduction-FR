@@ -34,7 +34,7 @@ define('_AM_MODULEADMIN_ABOUT_DONATE_IMG_ALT', 'Faire un don en utilisant PayPal
 define('_AM_MODULEADMIN_ABOUT_DESCRIPTION', 'Description ');
 define('_AM_MODULEADMIN_ABOUT_MODULEINFO', 'Info sur le module');
 define('_AM_MODULEADMIN_ABOUT_MODULESTATUS', 'Statut ');
-define('_AM_MODULEADMIN_ABOUT_UPDATEDATE', 'Mis à jour ');
+define('_AM_MODULEADMIN_ABOUT_UPDATEDATE', 'Mise à jour ');
 define('_AM_MODULEADMIN_ABOUT_WEBSITE', 'Site internet ');
 define('_AM_MODULEADMIN_ABOUT_RELEASEDATE', 'Sorti le : ');
 define('_AM_MODULEADMIN_ABOUT_AUTHOR', 'Auteur : ');
