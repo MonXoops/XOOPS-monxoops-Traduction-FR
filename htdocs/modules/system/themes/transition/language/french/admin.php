@@ -46,9 +46,9 @@ define('_OXYGEN_RSS', 'Flux RSS');
 define('_OXYGEN_ADMINISTRATION', 'Administration de XOOPS');
 define('_OXYGEN_UPTOP', 'En haut');
 //Add help
-define('_OXYGEN_HELP_1', 'Comment puis-je créer du contenu avec XOOPS?');
+define('_OXYGEN_HELP_1', 'Comment puis-je créer du contenu avec XOOPS ?');
 define('_OXYGEN_HELP_DESC_1', 'Pour créer du contenu, vous devez d\'abord installer un module de contenu, comme <a href="https://github.com/XoopsModules25x/publisher" rel="external">Publisher</a> ou <a href="https://github.com/XoopsModules25x/news" rel="external">News</a> module. Pour en savoir plus sur les modules XOOPS <a href="modules/system/help.php?mid=1&page=modulesadmin">cliquez ici</a>');
-define('_OXYGEN_HELP_2', 'Qu\'est-ce que le système de Block?');
+define('_OXYGEN_HELP_2', 'Qu\'est-ce que le système de Blocs ?');
 define('_OXYGEN_HELP_DESC_2', 'Les blocs peuvent fournir du contenu supplémentaire / spécifique à partir des modules installés. Il peut y avoir des blocs personnalisés qui peuvent contenir du texte, du code JS, du texte au format HTML, des images, etc. Le contenu de ces blocs peut être formaté individuellement ou peut hériter du formatage du site Web. (<a href="modules/system/help.php?mid=1&page=blocksadmin">plus ...</a>)');
-define('_OXYGEN_HELP_3', 'Comment trouver plus d\'aide?');
+define('_OXYGEN_HELP_3', 'Comment trouver plus d\'aide ?');
 define('_OXYGEN_HELP_DESC_3', 'Si vous avez besoin de plus d\'aide et d\'informations pour utiliser XOOPS, vous pouvez utiliser <a href="modules/system/help.php">Pages d\'aide </a> dans le module système ou utilisez <a href="http://www.xoops.org/modules/xoopspartners/" rel="external">Sites XOOPS de support locaux </a>');
