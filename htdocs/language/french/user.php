@@ -9,7 +9,7 @@ define('_US_LOSTPASSWORD', 'Mot de passe perdu ?');
 define('_US_NOPROBLEM', 'Aucun problème. Saisissez simplement l\'adresse courriel de votre compte que nous avons enregistré.');
 define('_US_YOUREMAIL', 'Votre Courriel :');
 define('_US_SENDPASSWORD', 'Envoyer le mot de passe');
-define('_US_LOGGEDOUT', 'Vous êtes maintenant connecté');
+define('_US_LOGGEDOUT', 'Vous êtes maintenant déconnecté');
 define('_US_THANKYOUFORVISIT', 'Merci de votre visite sur notre site!');
 define('_US_INCORRECTLOGIN', 'Identifiant incorrect!');
 define('_US_LOGGINGU', 'Merci de votre connexion <span>%s</span>');
