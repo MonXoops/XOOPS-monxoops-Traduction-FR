@@ -27,7 +27,7 @@ define('_AM_MODULEADMIN_CONFIG_ADMIN', 'La version minimum de ModuleAdmin requis
 define('_AM_MODULEADMIN_ABOUT_CHANGELOG', 'Journal des modifications');
 define('_AM_MODULEADMIN_ABOUT_AMOUNT', 'Montant ');
 define('_AM_MODULEADMIN_ABOUT_AMOUNT_TTL', 'Entrez le montant en euros, par ex. 25,00 €');
-define('_AM_MODULEADMIN_ABOUT_AMOUNT_CURRENCY', 'Euro');
+define('_AM_MODULEADMIN_ABOUT_AMOUNT_CURRENCY', 'EUR');
 define('_AM_MODULEADMIN_ABOUT_AMOUNT_SUGGESTED', '25.00');
 define('_AM_MODULEADMIN_ABOUT_AMOUNT_PATTERN', '\\€?[0-9]+(,[0-9]{3})*(\\.[0-9]{0,2})?€');
 define('_AM_MODULEADMIN_ABOUT_DONATE_IMG_ALT', 'Faire un don en utilisant PayPal ou une carte de crédit en ligne !');
