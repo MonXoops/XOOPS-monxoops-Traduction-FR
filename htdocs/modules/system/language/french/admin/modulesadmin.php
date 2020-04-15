@@ -17,8 +17,8 @@ define('_AM_SYSTEM_MODULES_RUSUREUNINS', 'Êtes-vous sûr de vouloir désinstall
 define('_AM_SYSTEM_MODULES_RUSUREUPD', 'Pour mettre à jour ce module, cliquez sur le bouton ci-dessous');
 define('_AM_SYSTEM_MODULES_BTOMADMIN', 'Retour à la page d\'administration des modules');
 define('_AM_SYSTEM_MODULES_INSTALLING', 'Installation de ');
-define('_AM_SYSTEM_MODULES_DEACTIVATE', 'Désinstallation');
-define('_AM_SYSTEM_MODULES_ACTIVATE', 'Désactiver');
+define('_AM_SYSTEM_MODULES_DEACTIVATE', 'Désactiver');
+define('_AM_SYSTEM_MODULES_ACTIVATE', 'Réactiver');
 define('_AM_SYSTEM_MODULES_UPDATING', 'Mise à jour');
 // Main
 define('_AM_SYSTEM_MODULES_INSTALL', 'Installer');
@@ -155,9 +155,10 @@ define('_AM_SYSTEM_MODULES_TABLE_DROPPED_FAILDED', 'ERREUR: Vous n\'êtes pas au
 // Tips
 define('_AM_SYSTEM_MODULES_TIPS', '<ul>
 <li>Si vous installez un nouveau module, n\'oubliez pas de paramétrer ses préférences, ses blocs et les permissions des utilisateurs !</li>
-<li>Pour masquer un module dans le bloc menu principal, cliquez sur l\'encoche verte pour le masquer, et sur la croix rouge pour l\'afficher.</li>
-<li>Vous devez supprimer de votre serveur les fichiers des modules inutilisés, afin d\'éviter des risques d\'insécurité et, ainsi préserver le bon fonctionnement de votre site.</li>
-<li>Pour changer l\'ordre des modules (ordre qui sera également affiché dans le Menu Principal), vous avez juste besoin de déplacer par <em>\"glisser / déposer\"</em>les lignes des modules à l\'emplacement désiré dans le tableau.</li>
+<li>Masquer/Afficher un module dans le bloc "Menu Principal" ? Cliquez sur la coche verte/Croix rouge) dans la colonne "Menu déroulant".</li>
+<li>Changer l\'ordre des modules dans le "Menu Principal" ? Déplacez les lignes des modules à l\'emplacement désiré dans le tableau par <em>"glisser / déposer"</em>.</li>
+<li>Désactiver/Activer totalement un module sans supprimer les données ? Cliquez sur la coche verte/Croix rouge dans la colonne "Actif".</li>
+<li>Vous devez supprimer de votre serveur les modules inutilisés, afin de limités des risques d\'insécurité potentielles.</li>
 </ul>');
 define('_AM_SYSTEM_MODULES_CONFIRM_TIPS', '<ul>
 <li>Vérifiez toutes les modifications avant de procéder à la validation.</li>
