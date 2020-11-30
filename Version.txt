@@ -4,5 +4,5 @@
  * @copyright       MonXoops (https://www.monxoops.fr/)
  * @license         GNU GPL 2 (http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
  * @author          MonXoops
- * @version	    1.1 (17.03.2020)
+ * @version	    1.2 (30.11.2020)
  */
