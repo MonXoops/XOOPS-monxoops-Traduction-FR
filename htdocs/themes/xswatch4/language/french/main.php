@@ -66,6 +66,8 @@ define('THEME_TOOLBAR_SYSTEM_MODULE', 'Module Système');
 define('THEME_TOOLBAR_GENERAL_SETTINGS', 'Préférences générales');
 define('THEME_TOOLBAR_TOOLS', 'Outils');
 define('THEME_TOOLBAR_SYSTEM_OPTIONS', 'Options du système');
+define('THEME_TOOLBAR_DEBUGMODE', 'Mode débogage');
+define('THEME_TOOLBAR_THIS_MODULE', 'Ce module');
 define('THEME_TOOLBAR_MODULES', 'Modules');
 define('THEME_TOOLBAR_BLOCKS', 'Blocs');
 define('THEME_TOOLBAR_TEMPLATES', 'Modèles');
@@ -88,4 +90,16 @@ define('THEME_TOOLBAR_SHOW_BLOCK_EDIT', 'Édition du Bloc');
 define('THEME_TOOLBAR_EDIT_THIS_BLOCK', 'Éditer ce Bloc');
 
 define('THEME_COMMENT_ADD', 'Ajoutez votre commentaire');
-define('THEME_COMMENT_OPTIONS', 'Options d\'affichage des commentaires:');
+define('THEME_COMMENT_OPTIONS', 'Options d\'affichage des commentaires');
+
+define('THEME_PERMISSIONS_LEGEND', 'Autorisations &amp; Légende');
+
+define('THEME_INBOX_ALERT', 'Alerte MP');
+define('THEME_INBOX_LINK', 'Cliquez ici pour voir votre boîte de réception!');
+
+define('THEME_EVENT_DOWNLOADS', 'Téléchargements d\'événements');
+define('THEME_FILE_NAME', 'Fichier');
+define('THEME_FILE_SIZE', 'Taille');
+
+define('THEME_CONTROL_NEXT', 'Prochain');
+define('THEME_CONTROL_PREVIOUS', 'Précédent');

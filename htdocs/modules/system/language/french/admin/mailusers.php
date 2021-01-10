@@ -26,7 +26,7 @@ define('_AM_SYSTEM_MAILUSERS_MAILFNAME', 'Nom de l\'expéditeur');
 define('_AM_SYSTEM_MAILUSERS_MAILFMAIL', 'Courriel de l\'expéditeur');
 define('_AM_SYSTEM_MAILUSERS_MAILTAGS', 'Mots-clés utiles :');
 define('_AM_SYSTEM_MAILUSERS_MAILTAGS1', '{X_UID} affichera l\'ID de l\'utilisateur');
-define('_AM_SYSTEM_MAILUSERS_MAILTAGS2', '{X_UNAME} affichera le nom de l\'utilisateur');
+define('_AM_SYSTEM_MAILUSERS_MAILTAGS2', '{X_UNAME} affichera le pseudonyme de l\'utilisateur');
 define('_AM_SYSTEM_MAILUSERS_MAILTAGS3', '{X_UEMAIL} affichera le courriel de l\'utilisateur');
 define('_AM_SYSTEM_MAILUSERS_MAILTAGS4', '{X_UACTLINK} affichera le lien d\'activation de l\'utilisateur');
 define('_AM_SYSTEM_MAILUSERS_MAILSUBJECT', 'Sujet');
@@ -41,3 +41,6 @@ define('_AM_SYSTEM_MAILUSERS_SENDTOUSERS2', 'Envoyer à :');
 define('_AM_SYSTEM_MAILUSERS_SENT', 'Publipostage envoyé');
 define('_AM_SYSTEM_MAILUSERS_SENTNUM', '%s - %s soit un total de %s destinataire(s)');
 define('_AM_SYSTEM_MAILUSERS_TIMEFORMAT', '(Format yyyy-mm-dd, en option)');
+
+//XOOPS 2.5.11
+define('_AM_SYSTEM_MAILUSERS_MAILTAGS5', '{X_NAME} affichera le nom ou le pseudonyme s\'il est vide');

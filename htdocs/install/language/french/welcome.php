@@ -12,15 +12,15 @@ $content .= '
 </p>
 <p>
     XOOPS est publié sous les termes de 
-    <a href="http://www.gnu.org/licenses/gpl-2.0.html" rel="external" title="Voir la licence GPL">GNU General Public License (GPL)</a>
+    <a href="https://www.gnu.org/licenses/gpl-2.0.html" rel="external" title="Voir la licence GPL">GNU General Public License (GPL)</a>
     version 2 ou supérieure, et est libre d\'utilisation et de modification.
     Il est possible de le redistribuer à condition de respecter les termes de distribution de la licence.</p>
 </p>
 <h3>Pré-requis</h3>
 <ul>
-    <li>WWW Server (<a href="http://www.apache.org/" rel="external">Apache</a>, <a href="https://www.nginx.com/" rel="external">NGINX</a>, IIS, etc)</li>
-    <li><a href="http://www.php.net/" rel="external" title="Visitez le site Officiel PHP">PHP</a> 5.3.7 ou supérieure, 7.1+ recommendée</li>
-    <li><a href="http://www.mysql.com/" rel="external">MySQL</a> 5.5 ou supérieure, 5.6+ recommandée </li>
+    <li>WWW Server (<a href="https://www.apache.org/" rel="external">Apache</a>, <a href="https://www.nginx.com/" rel="external">NGINX</a>, IIS, etc)</li>
+    <li><a href="https://www.php.net/" rel="external" title="Visitez le site Officiel PHP">PHP</a> 5.3.9 ou supérieure, 7.2+ recommendée</li>
+    <li><a href="https://www.mysql.com/" rel="external">MySQL</a> 5.5 ou supérieure, 5.7+ recommandée </li>
 </ul>
 <h3>Avant de procéder à l\'installation</h3>
 <ol>
@@ -35,7 +35,7 @@ $content .= '
 <h3> Remarques spéciales </ h3>
 <p>Certaines combinaisons de logiciels système spécifiques peuvent nécessiter certaines configurations supplémentaires pour fonctionner.
   avec XOOPS. Si l’un de ces sujets s’applique à votre environnement, veuillez consulter la documentation complète. 
- <a href="https://xoops.gitbook.io/xoops-2-5-9-install-upgrade/" class="external">XOOPS 
+ <a href="https://xoops.gitbook.io/xoops-install-upgrade/" rel="external">XOOPS 
   manuel d\'installation</a> pour plus d\'informations. 
 </p>
 <p>MySQL 8.0 n’est pas supporté dans toutes les versions de PHP. Même dans les versions prises en charge, des problèmes avec
