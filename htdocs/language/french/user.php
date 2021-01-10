@@ -130,3 +130,6 @@ define('_US_SKYPE', 'Skype');
 define('_US_FACEBOOK', 'Facebook');
 //XOOPS 2.5.9
 define('_US_USERALREADYACTIVE', 'Utilisateur déjà actif');
+//XOOPS 2.5.11
+define('_US_DESCRIPTIONMIN', 'Longueur minimale requise: %s');
+define('_US_DESCRIPTIONMAX', 'Longueur maximale: %s');

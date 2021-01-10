@@ -199,7 +199,7 @@ define('_MD_AM_MAILFROMUIDDESC', 'Quand le système envoie un message privé, so
 define('_MD_AM_MAILERMETHOD', 'Méthode d\'émission des emails');
 define('_MD_AM_MAILERMETHODDESC', "Méthode utilisée pour envoyer un email. Par défaut 'mail' est sélectionné, mais vous pouvez utiliser les autres méthodes en cas de problème.");
 define('_MD_AM_SMTPHOST', 'Serveur(s) SMTP');
-define('_MD_AM_SMTPHOSTDESC', 'Liste des serveurs SMTP pour essayer de se connecter.');
+define('_MD_AM_SMTPHOSTDESC', 'Soit un nom d\'hôte unique, soit plusieurs noms d\'hôtes séparés par des points-virgules. <br> Vous pouvez également spécifier un port différent pour chaque hôte en utilisant ce format: [nom d\'hôte: port] (par exemple  "smtp1.example.com:25;smtp2.example.com").<br>Vous pouvez également spécifier le type de chiffrement, par exemple: ("tls://smtp1.example.com:587;ssl://smtp2.example.com:465").<br>Les hôtes vont être jugés dans l\'ordre.');
 define('_MD_AM_SMTPUSER', 'Nom d\'utilisateur SMTPAuth');
 define('_MD_AM_SMTPUSERDESC', 'Nom d\'utilisateur pour se connecter au serveur SMTP avec la méthode SMTPAuth.');
 define('_MD_AM_SMTPPASS', 'Mot de passe SMTPAuth');
