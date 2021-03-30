@@ -103,3 +103,9 @@ define('THEME_FILE_SIZE', 'Taille');
 
 define('THEME_CONTROL_NEXT', 'Prochain');
 define('THEME_CONTROL_PREVIOUS', 'Précédent');
+
+// Bloc online
+define('THEME_OL_MEMBERS', 'Membres');
+define('THEME_OL_MEMBER', 'Membre');
+define('THEME_OL_GUESTS', 'Invités');
+define('THEME_OL_GUEST', 'Invités');
