@@ -194,3 +194,5 @@ define('XOOPS_ERROR_ENCOUNTERED', 'Erreur');
 define('XOOPS_ERROR_SEE_BELOW', 'Voir ci-dessous pour les messages.');
 define('MODULES_AVAILABLE', 'Modules disponibles');
 define('INSTALL_THIS_MODULE', 'Ajouter %s');
+//2.5.11
+define('ERR_COPY_CONFIG_FILE', 'Impossible de copier le fichier de configuration %s');
