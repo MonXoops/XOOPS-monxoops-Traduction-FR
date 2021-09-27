@@ -45,3 +45,5 @@ define('_AM_SYSTEM_IMAGES_FAILDELCAT', 'Échec de la suppression de la catégori
 define('_AM_SYSTEM_IMAGES_FAILUNLINK', 'Échec lors de la suppression de l\'image %s dans le dossier du serveur');
 // Tips
 define('_AM_SYSTEM_IMAGES_TIPS', '<ul><li>Gérer les catégories d\'images et les autorisations des utilisateurs </li></ul>');
+//2.5.11
+define("_AM_SYSTEM_IMAGES_SCATDELNG","Impossible de supprimer cette catégorie ");
