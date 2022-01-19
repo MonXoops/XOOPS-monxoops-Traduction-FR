@@ -6,7 +6,7 @@
  * _CHARSET     UTF-8
  */
 // Navigation
-define('_AM_SYSTEM_MODULES_ADMIN', 'Administration du module installé');
+define('_AM_SYSTEM_MODULES_ADMIN', 'Adimistration des modules XOOPS');
 define('_AM_SYSTEM_MODULES_LIST', 'Liste des  modules');
 define('_AM_SYSTEM_MODULES_TOINSTALL', 'Installer un module');
 define('_AM_SYSTEM_MODULES_VALIDATE', 'Valider les modifications');
@@ -167,3 +167,5 @@ define('_AM_SYSTEM_MODULES_CONFIRM_TIPS', '<ul>
 define('_AM_SYSTEM_MODULES_INSTALL_TESTDATA', 'Activer le contrôle des données');
 // 2.5.8
 define('_AM_SYSTEM_MODULES_INSTALL_MORE', 'Installer plus de modules');
+// 2.5.11
+define('_AM_SYSTEM_MODULES_INSTALL_THISMODULE', 'Administration du module installé');
