@@ -93,9 +93,6 @@ define('_AM_SYSTEM_USERS_YMCACF', 'Vous devez remplir tous les champs obligatoir
 define('_AM_SYSTEM_USERS_CNRNU', 'Impossible d\'inscrire un nouvel utilisateur.');
 define('_AM_SYSTEM_USERS_EDEUSER', 'Modifier / supprimer des utilisateurs');
 define('_AM_SYSTEM_USERS_NICKNAME', 'Pseudonyme');
-define('_AM_SYSTEM_USERS_MODIFYUSER', 'Modifier l\'utilisateur');
-define('_AM_SYSTEM_USERS_DELUSER', 'Supprimer l\'utilisateur');
-define('_AM_SYSTEM_USERS_GO', 'Ok');
 define('_AM_SYSTEM_USERS_ADDUSER', 'Ajouter un utilisateur');
 define('_AM_SYSTEM_USERS_OPTION', 'Option');
 define('_AM_SYSTEM_USERS_THEME', 'Thème');
