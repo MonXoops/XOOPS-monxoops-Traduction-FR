@@ -256,3 +256,9 @@ define('_DBTIMESTAMPSTRING', 'd-m-Y H:i:s');
 //XOOPS 2.5.9
 define('_AM_MODULEADMIN_MISSING','Erreur : La classe ModuleAdmin est manquante. Veuillez installer la classe ModuleAdmin dans le dossier /Frameworks (voir /docs/readme.txt).');
 define('_MD_MESSAGEC', 'Message:');
+
+//XOOPS 2.5.11
+define('_PRINT', 'Impression');
+define('_PDF', 'PDF');
+define('_OFF', 'Off');
+define('_DB_QUERY_ERROR', 'Échec de la requête! SQL: %s - Erreur: ');
