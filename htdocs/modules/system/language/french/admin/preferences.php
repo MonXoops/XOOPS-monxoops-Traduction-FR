@@ -295,6 +295,9 @@ define('_MD_AM_WELCOMETYPE_DESC', 'La méthode d\'envoi d\'un message de bienven
 define('_MD_AM_WELCOMETYPE_EMAIL', 'Courriel');
 define('_MD_AM_WELCOMETYPE_PM', 'Message');
 define('_MD_AM_WELCOMETYPE_BOTH', 'Email et message');
+//2.5.11
+define('_MD_AM_DEFAULT_NOTIFICATION_METHOD', 'Méthode de notification par défaut');
+define('_MD_AM_DEFAULT_NOTIFICATION_METHOD_DESC', 'Pour les nouveaux utilisateurs lorsqu\'ils s\'inscrivent à des notifications provenant, par exemple, d\'un forum.');
 define('_MD_AM_MODULEPREF', 'Préférences du module');
 // Preference module system
 define('_AM_SYSTEM_PREFERENCES_SETTINGS', 'Paramètres du Module Système');
