@@ -19,3 +19,4 @@ define('_XOOPS_EDITOR_TINYMCE', 'TinyMCE');
 define('_XOOPS_EDITOR_TINYMCE_LANGUAGE', 'fr');
 // FONT LIST, FORMAT: "Name=value1,value2;Name=value"
 define('_XOOPS_EDITOR_TINYMCE_FONTS', 'Arial=arial,helvetica,sans-serif;Courier New=courier new,courier,monospace;Georgia=georgia,times new roman,times,serif;Tahoma=tahoma,arial,helvetica,sans-serif;Times New Roman=times new roman,times,serif;Verdana=verdana,arial,helvetica,sans-serif;Impact=impact;WingDings=wingdings');
+define('_FAILGETIMG', 'Échec de l\'obtention de l\'image %s');
