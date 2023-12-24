@@ -33,3 +33,5 @@ define('_ER_UP_CANTWRITE', 'Impossible d\'écrire le fichier sur le disque');
 define('_ER_UP_EXTENSION', 'Le téléchargement de fichier a été arrêté par extension. Voir phpinfo ()');
 define('_ER_UP_UNKNOWN', 'Erreur de téléchargement inconnue');
 define('_ER_UP_INDEXNOTSET', 'Tentative de récupération de plusieurs fichiers, l\'index doit être défini.');
+// 2.5.11
+define('_ER_UP_MODE_NOT_CHANGED', 'Fichier téléchargé, mais impossible de modifier le mode.');
