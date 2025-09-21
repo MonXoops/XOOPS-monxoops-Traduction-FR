@@ -67,7 +67,7 @@ define('_PM_NEXTP', 'Suivant');
 define('_PM_MAILNOTIFY', "%s, vous avez un nouveau message privé de %s");
 define('_PM_MAILMESSAGE', "Bonjour !\nUn nouveau message privé est arrivé de %s\n\nLe titre du message est : %s\n\nVous pouvez visualiser ce message ici : %s\n\n-----------\nVous avez reçu ce message car vous avez demandé d\'être notifié quand vous recevez un nouveau message privé\n\nVous pouvez changer vos préférences pour les messages privés\n%s\n\nMerci de ne pas répondre à ce message\n\n---------\nCordialement\n%s\n%s\n%s");
 define('_PM_EMAIL', 'Faire suivre le message');
-define('_PM_EMAIL_DESC', 'Dear %s, this is a message transfered from your account at ' . $GLOBALS['xoopsConfig']['sitename']);
+define('_PM_EMAIL_DESC', 'Cher %s, ceci est un message transféré depuis votre compte à l\'adresse ' . $GLOBALS['xoopsConfig']['sitename']);
 define('_PM_EMAIL_FROM', 'De %s');
 define('_PM_EMAIL_TO', 'À %s');
 define('_PM_EMAIL_SUBJECT', '[message]%s');

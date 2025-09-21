@@ -46,3 +46,6 @@ define('_MB_SYSTEM_THWIDTH', 'Largeur des captures d\'image');
 define('_MB_SYSTEM_REMEMBERME', 'Se souvenir de moi');
 //2.5.8
 define('_MB_SYSTEM_BLOCK_HEIGHT', 'Hauteur du Bloc (lignes)');
+
+//2.5.12
+define('_MB_SYSTEM_WAITING_CONTENT_DEPRECATED', "Le bloc « Waiting Contents » est obsolète depuis XOOPS 2.5.11, veuillez utiliser le module Waiting.");
