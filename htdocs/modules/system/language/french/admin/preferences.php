@@ -301,3 +301,7 @@ define('_MD_AM_DEFAULT_NOTIFICATION_METHOD_DESC', 'Pour les nouveaux utilisateur
 define('_MD_AM_MODULEPREF', 'Préférences du module');
 // Preference module system
 define('_AM_SYSTEM_PREFERENCES_SETTINGS', 'Paramètres du Module Système');
+
+//2.5.12
+define('_MD_AM_SENDMAIL_NOT_FOUND', 'Binaire Sendmail introuvable. Veuillez vérifier la configuration de votre serveur.');
+define('_MD_AM_SENDMAIL_HELP_MISSING_BIN', 'Aucun binaire compatible sendmail valide n\'a été détecté. Installez un MTA (par exemple Postfix, msmtp) ou passez à SMTP dans les Préférences.');
